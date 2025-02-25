@@ -1,4 +1,6 @@
 # Restaurante-iterable
+
+Por fin un reto fácil
 #  Restaurante con clase iterable
 Este repositorio contiene la implementación de un sistema de menús con clases en Python. Se extiende el código del Reto 3 agregando una nueva clase iterable para manejar pedidos.
 
