@@ -1,6 +1,5 @@
 # Restaurante-iterable
 
-Por fin un reto fácil
 #  Restaurante con clase iterable
 Este repositorio contiene la implementación de un sistema de menús con clases en Python. Se extiende el código del Reto 3 agregando una nueva clase iterable para manejar pedidos.
 
@@ -19,3 +18,5 @@ El reto consiste en ampliar la implementación de un sistema de menús utilizand
     
     def total_price(self):
         return sum(menu.total_price() for menu in self.menus)
+
+(Por fin un reto fácil, graciassss)
